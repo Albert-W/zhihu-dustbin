@@ -9,7 +9,7 @@
 1. 添加issue 
 2. 在issus中添加如下信息
 
-![image](https://user-images.githubusercontent.com/21038139/91713414-a2a12600-eb81-11ea-9b48-545467080645.png)
+![image](https://user-images.githubusercontent.com/21038139/91714670-265c1200-eb84-11ea-8c8b-4866ea951f91.png)
 
 注意添加article标签。
 
