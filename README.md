@@ -18,9 +18,9 @@
 
 ## 文章目录
 
-[己投稿文章](contents.md) 这是经过汇总的目录。
+[己投稿文章](contents.md)  注：这是经过汇总的被删文章目录。
 
-在 issues 页面 可以查看全部的、最新的 文章列表。 
+在 issues 页面 可以查看全部的、最新的 被删文章列表。 
 
 ![image](https://user-images.githubusercontent.com/21038139/91727171-2fa3a980-eb99-11ea-926a-ed6c9861bfbb.png)
 
