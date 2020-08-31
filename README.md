@@ -9,8 +9,16 @@
 1. 添加issue 
 2. 在issus中添加如下信息
 
-![image](https://user-images.githubusercontent.com/21038139/91711015-15f46900-eb7d-11ea-899d-44d5aa0061b6.png)
+![image](https://user-images.githubusercontent.com/21038139/91712404-92884700-eb7f-11ea-8803-2eb6ec4a603a.png)
+
+注意添加article标签
 
 ## 文章目录
 
 [己投稿文章](contents.md)
+
+## 建议与反馈
+
+有任何建议与反馈 同样可以通过issus提出。
+
+注意添加 suggestion标签
