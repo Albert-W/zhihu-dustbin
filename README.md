@@ -10,15 +10,15 @@
 ## 提交方式
 
 1. 添加issue 
-2. 在issus中添加如下信息
+2. 选择article模板
+3. 添加如下信息
 
-![image](https://user-images.githubusercontent.com/21038139/91727456-a50f7a00-eb99-11ea-8d2a-72f4f0ee56c2.png)
+![image](https://user-images.githubusercontent.com/21038139/91834228-a8f5d780-ec3f-11ea-80af-1882ddb3f21a.png)
 
-注意添加article标签。
 
 ## 文章目录
 
-[己投稿文章](contents.md)  注：这是经过汇总的被删文章目录。
+[己投稿文章](contents.md)  注：这是经过汇总的资源目录。
 
 在 issues 页面 可以查看全部的、最新的 被删文章列表。 
 
@@ -29,4 +29,4 @@
 
 有任何建议与反馈 同样可以通过issus提出。
 
-注意添加 suggestion标签
+使用suggestion模板即可。 
